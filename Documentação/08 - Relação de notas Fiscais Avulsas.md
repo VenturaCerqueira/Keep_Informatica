@@ -32,7 +32,7 @@
 9.  Total Registros:     - Quantidade totald e Notas, total valor das Notas, total valor dos ISS das notas
                             e valor total IRRF das Notas;  
 ```
-![alt text](Fotos/notafiscal.png)
+![alt text](/Fotos/notafiscal.png)
 <br>
 <br>
 

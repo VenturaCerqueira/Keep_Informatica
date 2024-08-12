@@ -4,7 +4,7 @@
 
  ✅ - Este documento descreve o processo de geração, estrutura e funcionalidades do relatório do Sistema de Tributos Web.<br>
  ✅ - Explicação sober cada relatorio encontra-se nos **_links_** anexados. 
-
+ 
 #  📄- Layout Relatorios:
 **Explicação:**<br>
  <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/00%20-%20Layout%20paginas.md>

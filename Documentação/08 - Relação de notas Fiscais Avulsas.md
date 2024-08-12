@@ -4,15 +4,15 @@
 
 1.  **Período:** 
     >**Observação:** (Data - *type: Date* -Data da emissão do Nota) <br>
-    ![alt text](Fotos/image.png)
+    ![alt text](/Fotos/image.png)
 
 2.  **Prestador:**
     >   **Observação:** Filtro de pesquisa dos prestadores de serviço, trazendo as informações apenas do prestador desejado com filtro.
-    ![alt text](Fotos/prestador.png)
+    ![alt text](/Fotos/prestador.png)
 
 3.  **Tomador:** 
     >   **Observação:**     Fiiltro de pesquisa dos tomadores de serviço, trazendo as informações apenas do tomador desejado com filtro. 
-    ![alt text](Fotos/tomador.png)
+    ![alt text](/Fotos/tomador.png)
 
 4. **Ordenar:**
     >   **Observação:** Select para ordenar por (Data emissão da Nota Fiscal Avulsa, numero da Nota Fiscal ou prestador alfabetica [A-Z]), apenas uma escolha de organização, 'orde by'.
@@ -33,3 +33,9 @@
                             e valor total IRRF das Notas;  
 ```
 ![alt text](Fotos/notafiscal.png)
+<br>
+<br>
+
+ **_Voltar menu:_** <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/README.mds>
+
+ 

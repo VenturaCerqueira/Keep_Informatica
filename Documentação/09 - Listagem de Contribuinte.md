@@ -5,8 +5,8 @@
 1.  **Classificação Receita:** 
     >**Observação:** <br>   *Multiplo* _select_ -- classificação de receita (tipo do tributo *IPTU, TFF, ..)*<br>
     **Exemplo campo do sistema Antigo:** <br>
-    ![alt text](Fotos/image-1.png)<br>
-    ![alt text](Fotos/image-2.png)
+    ![alt text](/Fotos/image-1.png)<br>
+    ![alt text](/Fotos/image-2.png)
 
 2.   **Atividade Principal:**
     >**Observação:** _Multipla opções_, podendo selecionar varios CNAES_PRINCIPAL. <br>
@@ -15,46 +15,46 @@
     >   **Observação:** *(Do lançamento do DAM)*, possibilidade de colocar apenas uma inscrição.
     <br> 
     **Exemplo campo do sistema Antigo:**  <br> 
-    ![alt text](fotos/inscrição.png) 
+    ![alt text](/Fotos/inscrição.png) 
 
 4.  **Tipo Pessoa:** 
     >   **Observação:** _Select_ Todas, juridica ou fisica; <br>
     **Exemplo campo do sistema Antigo:** <br>
-    ![alt text](Fotos/pessoa.png)<br>
-    ![alt text](Fotos/Tipopessoa.png)
+    ![alt text](/Fotos/pessoa.png)<br>
+    ![alt text](/Fotos/Tipopessoa.png)
 
 
 5. **Porte:** 
     > **Observação:** Mutipla seleção porte da Empresa: <br>
     **Exemplo campo do sistema Antigo:** <br>
-    ![alt text](Fotos/porte.png)<br>
-    ![alt text](Fotos/tipoporte.png)
+    ![alt text](/Fotos/porte.png)<br>
+    ![alt text](/Fotos/tipoporte.png)
 
 6.  **Situação:**
     > **Observação:** _Select_ (situação/Status) Atividade.<br>
     **Exemplo campo do sistema Antigo:** <br>
-    ![alt text](Fotos/situação.png)<br>
-    ![alt text](Fotos/Tiposituação.png)
+    ![alt text](/Fotos/situação.png)<br>
+    ![alt text](/Fotos/Tiposituação.png)
 
 7.  **Periodo Atividade:** 
     >   **Observação:** Filtro tipo _Data_, _Inicio da atividade principal_ dos contribuintes. <br>
     **Exemplo campo do sistema Antigo:** 
     <br>
-    ![alt text](Fotos/periodoatividade.png)
+    ![alt text](/Fotos/periodoatividade.png)
 
 8.  **Período Cadastro contribuinte:** 
     >   **Observação:** Filtro tipo _Data_, data de cadastro dos contribuintes.<br>
     **Exemplo campo do sistema Antigo:**<br> 
-    ![alt text](Fotos/Periodocadastro.png)
+    ![alt text](/Fotos/Periodocadastro.png)
 
 9.  **Período baixa atividade:**
     >   **Observação:** Filtro tipo _Data_, data de baixa da atividade principal.<br>
     **Criar Novo campo tabela: "baixa_atividade_principal"**,<br>
-    ![alt text](fotos/periodoatividade.png)
+    ![alt text](/Fotos/periodoatividade.png)
 
 10. **Ordenar por:**
     >   **Observação:** Alfabética, Inscrição, Rua, numerica, CPF/CNPJ e Bairro;<br> 
-    ![alt text](Fotos/ordenar.png)    
+    ![alt text](/Fotos/ordenar.png)    
 
 
 ####   Layout PDF:
@@ -79,4 +79,10 @@
 17. Situação;
 18. Total de Registro;
 ```
-![alt text](Fotos/Listagem%20dos%20contribuinte.png)
+![alt text](/Fotos/Listagem%20dos%20contribuinte.png)
+<br>
+<br>
+
+ **_Voltar menu:_** <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/README.mds>
+
+ 

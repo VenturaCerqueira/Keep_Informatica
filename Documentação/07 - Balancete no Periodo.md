@@ -3,7 +3,7 @@
 ####    Filtros:
 1.  **Período:** 
     >**Observação:** (Data - *type: Date* -Data da extinção ou Data do credito do DAM'S) <br>
-    ![alt text](Fotos/image.png)
+    ![alt text](/Fotos/image.png)
 
 2.  **Banco:**
     >**Observação:** Seleciona mutipla escolha dos bancos.<br>
@@ -41,3 +41,9 @@
 20. Total Geral dos Lançamentos     - Total de todos os lançamentos do relatorio, todos os bancos. 
 ```
 ![alt text](/Fotos/balancete.png)
+<br>
+<br>
+
+ **_Voltar menu:_** <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/README.mds>
+
+ 

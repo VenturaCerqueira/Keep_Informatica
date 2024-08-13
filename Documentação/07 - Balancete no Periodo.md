@@ -1,4 +1,4 @@
-### **Balancete no período:**
+# **✅ - Balancete no período:**
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 ####    Filtros:
 1.  **Período:** 

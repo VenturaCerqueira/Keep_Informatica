@@ -1,4 +1,4 @@
-### Relação DAM por Motivo: 
+# ✅ - Relação DAM por Motivo: 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 #### Filtros
 
@@ -17,9 +17,13 @@
     ![alt text](/Fotos/image-1.png)<br>
     ![alt text](/Fotos/image-2.png)
 
-4.  **D.A.:** 
-    > **Observação:** *Checkbox* Caso seja uma D.A. deve-se colocar apenas D.A. do tipo do tributo marcado acima em **Tributos**<br>
-
+4.  **Divida Ativa:** 
+    > **Observação:** _Select_ Vem marcado com "01 - Todos Tributos", podendo alterar. <br>
+        01 - "Todos Tributos" <br> 
+        02 - "Tributaria e Não tributaria"<br> 
+        03 - "Tributaria" 
+        04 - "Não Tributaria" <br> 
+        05 - "Sem D.A." <br> 
 
 5.  **Exercicio:** 
     > **Observação:** Seleciona *Ano (2024, 2023, 2022, ...)* <br>
@@ -27,8 +31,8 @@
     ![alt text](/Fotos/image-3.png)<br>
     ![alt text](/Fotos/image-4.png)
 
-6.  **Motivo:**
-    >   **Observação:** Multiplo _Select_, podendo selecionar varios **motivos:** Excluido, pré-inscrito, cancelado, impugnado, extinção, migração, suspenso e compensado.    
+6.  **Modalidade:**
+    >   **Observação:** Multiplo _Select_, podendo selecionar varios **modalidades:** Excluido, pré-inscrito, cancelado, impugnado, extinção, migração, suspenso e compensado.    
 
 7.  **Atividade Principal:** 
     >**Observação:** _Multipla opções_, podendo selecionar varios CNAES_PRINCIPAL. <br>
@@ -38,7 +42,7 @@
  ```
  1. Tributos            -  
  2. Contribuinte        -   Contribuinte + CPF/CNPJ 
- 3. Motivo 
+ 3. Motivo              -   Modalidade 
  4. N Doc               -   Numero documento          
  5. Exercicio           -   Exercico da Cota
  6. Vencimento          -   Vencimento original da Cota

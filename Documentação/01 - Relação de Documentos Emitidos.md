@@ -1,10 +1,18 @@
-### ✅Relação de DAM's Emitidos:
+# ✅Relação de DAM's Emitidos:
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+## Observação: 
+    Apenas Campo "Período" ou "Exercicio" sera campo obrigatorio, outros campos podem ser "NULL";
+>   **Particularidades Filtros:** <br>
+    -   Caso preenchendo "Período não podera colocar "Exercicio".  
+    -   Caso preenchendo "exercicio" não podera colocar "Período".
+    -   Caso não preechendo "Tributo", marcando "Divida Ativa", trazer todos os tributos que estão em "D.A.". 
+    -   Caso não marcando "Tributo", marcando "Parcela", trazer todos os tributos que estão parcelados e suas. cotas. 
 #### Filtros:
-
-1.  **Período:** 
+1.  **Período:** _(Not null - Campo obrigatorio)_ 
+    >**Observação:** (Data - *type: Date* - Data de pagamento ou data do credito (de acordo com ordem do relatorio) dos DAM'S) <br>
+    ![alt text](/Fotos/image.png)
    
-    >**Observação:** (Data - *type: Date* -Data da emissão do DAM'S) <br>
+    >**Observação:** (Data - *type: Date* -Data da emissão do DAM'S) <br> 
     ![alt text](/Fotos/image.png)
 
 2.  **Tributo:** 
@@ -19,16 +27,21 @@
     ![alt text](/Fotos/image-3.png)<br>
     ![alt text](/Fotos/image-4.png)
 
-4.  **D.A.:** 
-    > **Observação:** *Checkbox* Caso seja uma D.A. deve-se colocar apenas D.A. do tipo do tributo marcado acima em **Tributos**<br>
-
+4.  **Divida Ativa:** 
+    > **Observação:** _Select_ Vem marcado com "01 - Todos Tributos", podendo alterar. <br>
+        01 - "Todos Tributos" <br> 
+        02 - "Tributaria e Não tributaria"<br> 
+        03 - "Tributaria" 
+        04 - "Não Tributaria" <br> 
+        05 - "Sem D.A." <br> 
 5.  **Parcela:** 
-    >**Observação:** *Checkbox* desmarcado,<br>  *Texto ao lado:* _"Exibir Parcelas?"_<br>
+    >**Observação:** *Checkbox* Marcado,<br>  *Texto ao lado:* _"Exibir Parcelas?"_<br>
 
 6.  **Inscrição:**
-    >**Observação:** *(Do lançamento do DAM)*, possibilidade de colocar apenas uma inscrição.
+    >**Observação:** *(Do lançamento do DAM)*, Campo digitavel, possibilidade de colocar apenas uma inscrição.
     <br> 
     Exemplo abaixo sistema antigo:<br> 
+
     ![alt text](/Fotos/inscrição.png)
     
 7.  **Atividade Principal:** 

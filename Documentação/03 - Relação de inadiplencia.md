@@ -1,4 +1,4 @@
-###  ✅Listagem de inadimplência: 
+#  ✅Listagem de inadimplência: 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 #### Filtros:
 1.  **Período:**
@@ -16,8 +16,13 @@
     ![alt text](/Fotos/image-3.png)<br>
     ![alt text](qFotos/image-4.png)
 
-4.  **D.A.:**  
-    > **Observação:** *Checkbox* Caso seja uma D.A. deve-se colocar apenas D.A. do tipo do tributo marcado acima em **Tributos**<br>
+4.  **Divida Ativa:** 
+    > **Observação:** _Select_ Vem marcado com "01 - Todos Tributos", podendo alterar. <br>
+        01 - "Todos Tributos" <br> 
+        02 - "Tributaria e Não tributaria"<br> 
+        03 - "Tributaria" 
+        04 - "Não Tributaria" <br> 
+        05 - "Sem D.A." <br> 
 
 5.  **Parcela:** 
     >**Observação:** *Checkbox* desmarcado,<br>  *Texto ao lado:* _"Exibir Parcelas?"_<br>

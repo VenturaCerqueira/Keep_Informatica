@@ -7,4 +7,4 @@
  ```
  
 ```
-![alt text](fotos/alvará%20de%20licenla.png)
+![alt text](/Fotos/alvará%20de%20licenla.png)

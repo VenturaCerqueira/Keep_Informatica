@@ -18,4 +18,4 @@
  11. Total Registros    -   Quantidade de Cotas e total valor original (Valor Tributo); 
  12. Total Registros    -   Total de registros, Valor total do valor tributos do relatorio; 
 ```
-![alt text](Fotos/Certidão%20de%20baixa%20de%20atividade.png)
+![alt text](/Fotos/Certidão%20de%20baixa%20de%20atividade.png)

@@ -5,12 +5,12 @@
 
 2.  **Tributo:** 
     >**Observação:** <br>   *Multiplo* _select_ -- classificação de receita (tipo do tributo *IPTU, TFF, ...)*<br>
-    ![alt text](Fotos/image-1.png)<br>
-    ![alt text](Fotos/image-2.png)
+    ![alt text](/Fotos/image-1.png)<br>
+    ![alt text](/Fotos/image-2.png)
 
 3.  **D.A.:** 
     > **Observação:** (*Checkbox*) > Caso seja uma (D.A.) deve-se colocar apenas D.A. do tipo marcado acima em **Tributos**.<br>
-    ![alt text](Fotos/image-5.png)
+    ![alt text](/Fotos/image-5.png)
 
 4.  **Contribuinte:** 
     > **Observação:** Filtro para trazer apenas menor "numero" contribuinte para maior "numero" contribuinte digitado.<br>

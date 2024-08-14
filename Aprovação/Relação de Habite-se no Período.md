@@ -7,6 +7,4 @@
 ####   Layout PDF:
 **Campos:** 
  
-```
-
 ![alt text](/Fotos/Relacaodehabiitesenoperiodo.png)

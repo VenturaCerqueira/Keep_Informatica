@@ -5,73 +5,44 @@
  ✅ - Este documento descreve o processo de geração, estrutura e funcionalidades do relatório do Sistema de Tributos Web.<br>
  ✅ - Explicação sober cada relatorio encontra-se nos **_links_** anexados. 
  
-#  📄- Layout Relatorios:
-**Explicação:**<br>
- <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/00%20-%20Layout%20paginas.md>
- <br> _Link_<br>
-![alt text](/Fotos/layout.png)
+#   Menu Pastas:
+1.  Aprovação: <https://github.com/VenturaCerqueira/Keep_Informatica/tree/main/Aprova%C3%A7%C3%A3o>
+2.  B.I.:   <https://github.com/VenturaCerqueira/Keep_Informatica/tree/main/B.I>
+3.  DAM - IPTU: <https://github.com/VenturaCerqueira/Keep_Informatica/tree/main/DAM-IPTU>
+4.  Dashboard: <https://github.com/VenturaCerqueira/Keep_Informatica/tree/main/Dashboard>
+5.  Relatorios: <https://github.com/VenturaCerqueira/Keep_Informatica/tree/main/Relatorios>
 
-#    📄- Relatorios:
+#   
+#   Menu relatórios:
+-   ✅  -   Layout relatórios: <Br>
+<https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/00%20-%20Layout%20paginas.md>
 
-1.  **Relação de DAM's Emitidos:**<br>
-    **_Explicação:_**<br>
-    <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/01%20-%20Rela%C3%A7%C3%A3o%20de%20Documentos%20Emitidos.md>
-    <br>
-    ![alt text](/Fotos/emitidos.png)
+-   ✅  -   Relação de DAM's Emitidos: <br>
+  <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/01%20-%20Rela%C3%A7%C3%A3o%20de%20DAM's%20Emitidos.md>
 
-2.  **Relação De DAM's Arrecadados:** <br>
+-   ✅  -    Relação de DAM's Arrecadados Diario: <br>
+<https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/02.01%20-%20Relacao%20de%20DAM%20Arrecadados%20Diario.md>
 
-    -   **Relação de DAM's Arrecadado Diario:**<br>
-        **Explicação:**<br>
-        <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/02.01%20-%20Relacao%20de%20DAM%20Arrecadados%20Diario.md>
-        <br>
-        ![alt text](/Fotos/dam_arrecadados.png)
+-    ✅ -   Relação de DAM'S Arrecadados: <br>   
+<https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/02.02%20-%20Relacao%20de%20DAM%20Arrecadados.md>
 
-    -   **Relação de DAM's Arrecadados:**<br>
-    **_Explicação:_**<br>
-        <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/02.02%20-%20Relacao%20de%20DAM%20Arrecadados.md> 
-        <br>
+-   ✅  -   Listagem de inadimplência: <br>
+ <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/03%20-%20Rela%C3%A7%C3%A3o%20de%20inadiplencia.md> 
 
-    -   **Relação de DAM's Arrecadados Analitico:**<br>
-        **_Explicação:_**<br> 
-        <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/02.03%20-%20Analitico%20de%20DAM's%20Arrecadados.md>
-        <br>
+-   ✅  -   Relação DAM por Motivo: <br>
+<https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/04%20-%20Rela%C3%A7%C3%A3o%20DAM%20por%20Motivo.md>
 
-3.  **Relação de Inadiplencia:**<br>
-    **_Explicação:_**<br>
-    <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/03%20-%20Rela%C3%A7%C3%A3o%20de%20inadiplencia.md>
-    <br>
+-   ✅  -   Contribuinte Adimplente: <br>
+<https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/05%20-%20Rela%C3%A7%C3%A3o%20de%20Adimplente.md>
 
-4.  **Relação de DAM's por Motivo:**<br>
-    **_Explicação:_**<br>
-    <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/04%20-%20Rela%C3%A7%C3%A3o%20DAM%20por%20Motivo.md>
-    <br>
-    ![alt text](Fotos/dampormotivo.png)
-    <br>
+-   ✅  -   Balancete no período: <br>
+<https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/07%20-%20Balancete%20no%20Periodo.md> 
 
-5.  **Relação de Adimplente:**<br>
-    <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/05%20-%20Rela%C3%A7%C3%A3o%20de%20Adimplente.md>
-    <br>
-    ![alt text](/Fotos/listagem_de_contribuinte_adimplentes.png)
-    <br>
-    
-6.  **Balancete no periodo:**<br>
-    **_Explicação:_**<br>
-    <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/07%20-%20Balancete%20no%20Periodo.md>
-    <br>
-    ![alt text](/Fotos/balancete.png)
-    <br>
+-   ✅  -   Relação de Notas Fiscais Avulsas: <br>
+<https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/08%20-%20Rela%C3%A7%C3%A3o%20de%20notas%20Fiscais%20Avulsas.md>
 
-7.  **Relação de Nota Fiscais Avulsa:**<br>
-    **_Explicação:_**<br> 
-    <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/08%20-%20Rela%C3%A7%C3%A3o%20de%20notas%20Fiscais%20Avulsas.md>
-    <br>
-    ![alt text](Fotos/notafiscal.png)
-    <br>
+-   ✅  -   Listagem de Contribuinte: <br>
+<https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/09%20-%20Listagem%20de%20Contribuinte.md>
 
-8.  **Listagem de Contribuinte:**<br>
-    **_Explicação:_**<br>
-    <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Documenta%C3%A7%C3%A3o/09%20-%20Listagem%20de%20Contribuinte.md>
-    <br>
-    ![alt text](Fotos/Listagem%20dos%20contribuinte.png)
-
+-   ✅  -   Ficha de cadastro ou Registro de inscrição municipal: <br>
+<https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/10%20-%20Ficha%20de%20Cadastro%20Contribuinte.md>

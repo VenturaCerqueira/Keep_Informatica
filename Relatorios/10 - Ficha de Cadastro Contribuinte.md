@@ -23,11 +23,7 @@
 6.  Representante Legal     --> Caso possuir trazer campo "Nome contribuinte" cadastro como representante legal;
 7.  Situação                --> 
 8.  Data Criação            --> Data de cadastro da empresa no sistema; 
-```
-**Exemplo:** <br> 
-![alt text](image.png)
 
-```
 -   🗺️  Endereço:
 1.  CEP                     --> 
 2.  Estado                  --> Estado deve ser igual da entidade;
@@ -71,6 +67,20 @@
 2.  Data inscrição          -->
 
 ```
+**Exemplo:** <br>
+
+_Página 1/2_ <br>
+
+![alt text](/Fotos/pag01-mobi.png)
+
+<br>
+
+_Página 2/2_ <br>
+
+![alt text](/Fotos/pag02-mobi.png)
+
+#   
+
 ## ⚖️ - Jurídica:<br>
 >   **Observação I:** Titulo do relatorio sendo Jurídica do municipio será: **"Registro de inscrição municipal"**. <br>
 
@@ -145,6 +155,11 @@ Titulo                      --> Jurídico do municipio: "Registro de inscrição
 3.  E-mail                  -->
 4.  Site                    -->
 ```
+**Exemplo:** <br>
+
+![alt text](/Fotos/FISICO.png)
+
+#
 
 ## 🙍🏻 - Fisica - Profissional Liberal:<br>
 >   **Observação I:** Titulo do relatorio sendo Fisica será: **"Ficha de Cadastro <br>  Profissional Liberal"**. <br>
@@ -181,6 +196,6 @@ Titulo                      --> Jurídico do municipio: "Registro de inscrição
 3.  E-mail                  -->
 4.  Site                    -->
 ```
-<br>
+**Exemplo:** <br>
 
 ![alt text](/Fotos/Profssional%20Lib.png)

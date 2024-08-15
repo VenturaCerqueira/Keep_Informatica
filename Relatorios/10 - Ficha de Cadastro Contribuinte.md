@@ -1,7 +1,9 @@
 # ✅ - Ficha de cadastro ou Registro de inscrição municipal:
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
-- Relatório ficha de cadastro do contribuinte, existindo variação de relatório Jurídico e Físico.
+-   Relatório ficha de cadastro do contribuinte, existindo variação de relatório Jurídico e Físico.
+-   Descrição Localização "botão":
+
 
 ## ⚖️ - Jurídica - Mobiliário:<br>
 >   **Observação I:** Titulo do relatorio sendo Jurídica - Mobiliário será: **"Registro de inscrição municipal"**. <br>
@@ -18,11 +20,14 @@
 3.  Razão Social:           --> 
 4.  Fantasia:               --> 
 5.  Inscrição Estadual:     --> 
-6.  Representante Legal     -->
+6.  Representante Legal     --> Caso possuir trazer campo "Nome contribuinte" cadastro como representante legal;
 7.  Situação                --> 
 8.  Data Criação            --> Data de cadastro da empresa no sistema; 
+```
+**Exemplo:** <br> 
+![alt text](image.png)
 
-
+```
 -   🗺️  Endereço:
 1.  CEP                     --> 
 2.  Estado                  --> Estado deve ser igual da entidade;
@@ -140,3 +145,42 @@ Titulo                      --> Jurídico do municipio: "Registro de inscrição
 3.  E-mail                  -->
 4.  Site                    -->
 ```
+
+## 🙍🏻 - Fisica - Profissional Liberal:<br>
+>   **Observação I:** Titulo do relatorio sendo Fisica será: **"Ficha de Cadastro <br>  Profissional Liberal"**. <br>
+
+>   **Observação II:** Utilizar mesmo modelo da View do contribuinte. 
+```
+> Campos do relatório:
+Titulo                      --> Jurídico do municipio: "Registro de inscrição municipal" ;
+
+-   🌍  Dados Gerais:
+1.  Tipo pessoa:            --> (Física);
+2.  CPF:                    --> 
+3.  Nome:                   -->  
+4.  Data Criação            --> Data de cadastro da empresa no sistema; 
+5.  Situação                --> Caso contribuinte esteja com situação "Óbito" trazer campos abaixos: ⬇️
+6.  Data Registro óbito     -->
+7.  Reposanvel Legal Falecido->
+8.  Registro Profissional   -->
+9.  Profissão               -->
+
+-   🗺️  Endereço:
+1.  CEP                     --> 
+2.  Estado                  --> Estado deve ser igual da entidade;
+3.  Município               --> Municipio deve ser igual da entidade; 
+4.  Bairro                  -->
+5.  T.Logradouro            -->
+6.  Logradouro              -->
+7.  Nº                      -->
+8.  Complemento             -->
+
+-   📞  Contato:
+1.  Telefone fixo           --> 
+2.  Celular                 -->
+3.  E-mail                  -->
+4.  Site                    -->
+```
+<br>
+
+![alt text](/Fotos/Profssional%20Lib.png)

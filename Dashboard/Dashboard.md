@@ -87,13 +87,16 @@
 
 
 -   **🔗 - Retorno banco:** <br> <br>
-    ![alt text](image.png)
+    -   Botão abrir "Processamento" -> "Retorno banco" <br>
+
+![alt text](/Fotos/retornobanco.png)
 
     <br>
 
     ![alt text](/Fotos/Processar-arquivo_de_retorno.png) <br>
     **Observação:** Após processar, trazer arquivo retorno processado. Atualizando as informação da tela dashboard. 
-<http://54.232.3.16/gestaotributaria/processamento/retornos-bancos>
+
+    <http://54.232.3.16/gestaotributaria/processamento/retornos-bancos>
 
     
 

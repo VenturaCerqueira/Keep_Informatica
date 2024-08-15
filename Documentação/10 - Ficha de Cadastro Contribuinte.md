@@ -2,16 +2,17 @@
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 - Relatório ficha de cadastro do contribuinte, existindo variação de relatório Jurídico e Físico.
+
 ## ⚖️ - Jurídica - Mobiliário:<br>
 >   **Observação I:** Titulo do relatorio sendo Jurídica - Mobiliário será: **"Registro de inscrição municipal"**. <br>
 
 >   **Observação II:** Utilizar mesmo modelo da View do contribuinte. 
 ```
-> Campos do relatório:
+> ⚙️ - Campos do relatório:
 
--Titulo                      --> Jurídico do municipio: "Registro de inscrição municipal" ;
+✅ - Titulo                --> Jurídico do municipio: "Registro de inscrição municipal" ;
 
--   Dados Gerais:
+-   🌍  Dados Gerais:
 1.  Tipo pessoa:            --> (Juridica);
 2.  CNPJ:                   --> 
 3.  Razão Social:           --> 
@@ -22,7 +23,7 @@
 8.  Data Criação            --> Data de cadastro da empresa no sistema; 
 
 
--   Endereço:
+-   🗺️  Endereço:
 1.  CEP                     --> 
 2.  Estado                  --> Estado deve ser igual da entidade;
 3.  Município               --> Municipio deve ser igual da entidade; 
@@ -32,13 +33,13 @@
 7.  Nº                      -->
 8.  Complemento             -->
 
--   Contato:
+-   📞  Contato:
 1.  Telefone fixo           --> 
 2.  Celular                 -->
 3.  E-mail                  -->
 4.  Site                    -->
 
--   Atividade:
+-   📚  Atividade:
 1.  Inscrição Municipal     -->
 2.  Regime Especial Trib    -->
 3.  Porte                   -->
@@ -54,13 +55,13 @@
 13. Natureza Jurídica       -->
 14. Junta                   -->
 
--   Cnaes Secundários:
+-   📚  Cnaes Secundários:
 >   Observação: Apenas atividades secundarias ativas.
 1.  Codigo                  --> Codigo do CNAE;
 2.  CNAE                    --> Descrição do CNAE;
 3.  Data                    --> Data inicio atividade;
 
--   Sócios
+-   🤵🏻‍♀️  Sócios
 1.  Sócio                   --> Nome do contribuinte;
 2.  Data inscrição          -->
 
@@ -73,7 +74,7 @@
 > Campos do relatório:
 Titulo                      --> Jurídico do municipio: "Registro de inscrição municipal" ;
 
--   Dados Gerais:
+-   🌍  Dados Gerais:
 1.  Tipo pessoa:            --> (Juridica);
 2.  CNPJ:                   --> 
 3.  Razão Social:           --> 
@@ -85,7 +86,7 @@ Titulo                      --> Jurídico do municipio: "Registro de inscrição
 
 
 
--   Endereço:
+-   🗺️  Endereço:
 1.  CEP                     --> 
 2.  Estado                  --> 
 3.  Município               --> 
@@ -95,7 +96,7 @@ Titulo                      --> Jurídico do municipio: "Registro de inscrição
 7.  Nº                      -->
 8.  Complemento             -->
 
--   Contato:
+-   📞  Contato:
 1.  Telefone fixo           --> 
 2.  Celular                 -->
 3.  E-mail                  -->

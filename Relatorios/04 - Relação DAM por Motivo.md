@@ -1,5 +1,11 @@
 # ✅ - Relação DAM por Motivo: 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+
+<br>
+
+<https://encurtador.com.br/vh5af> **| Voltar |** - **| Proxima página |** <https://abrir.link/AWRZQ>  
+
+#
 #### Filtros
 
 ##### **Observação:** _Apenas contribuintes que não estão com DAM's aberto (vencidos)._  
@@ -57,6 +63,6 @@
 <br>
 <br>
 
- **_Voltar menu:_** <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/README.mds>
-
+#
+<https://encurtador.com.br/vh5af> **| Voltar |** - **| Proxima página |** <https://abrir.link/AWRZQ>  
  

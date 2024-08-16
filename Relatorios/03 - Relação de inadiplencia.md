@@ -1,5 +1,9 @@
 #  ✅Listagem de inadimplência: 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+<br>
+
+<https://encurtador.com.br/vh5af> **| Voltar |** - **| Proxima página |** <https://abrir.link/AWRZQ>  
+#
 #### Filtros:
 1.  **Período:**
     >**Observação:** (Data - *type: Date* - Data de vencimento do DAM'S) <br>
@@ -71,7 +75,7 @@
 <br>
 <br>
 
-
- **_Voltar menu:_** <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/README.mds>
+#
+<https://encurtador.com.br/vh5af> **| Voltar |** - **| Proxima página |** <https://abrir.link/AWRZQ>  
 
  

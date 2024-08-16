@@ -1,10 +1,29 @@
 # ✅ - Ficha de cadastro ou Registro de inscrição municipal:
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+#
+**⚠️    Observações:**
+-   Ficha de cadastro do contribuinte, ficara na tela da view.  <br> 
+    Adicionar botão ação na view (01 - Ficha de cadastro). <br>
+    **local abaixo:** ⬇️
+    ![alt text](/Fotos/exemploview.png)
+    <br>
+#
+##  Relatório possui 4 variações:<br>
+    -  Jurídica - Mobiliáario
+       - ⚠️ Observação: Alteração no titulo do relatorio "Registro de inscrição municipal" 
 
--   Relatório ficha de cadastro do contribuinte, existindo variação de relatório Jurídico e Físico.
--   Descrição Localização "botão":
+    -  Jurídica
+
+    -  Fisica 
+
+    -  Fisica   - Profissional Liberal: 
+        - ⚠️ Observação: Alteração no titulo do relatorio "Ficha de Cadastro Profissional Liberal".
+
+ <br>
 
 
+
+#
 ## ⚖️ - Jurídica - Mobiliário:<br>
 >   **Observação I:** Titulo do relatorio sendo Jurídica - Mobiliário será: **"Registro de inscrição municipal"**. <br>
 
@@ -167,7 +186,7 @@ Titulo                      --> Jurídico do municipio: "Registro de inscrição
 >   **Observação II:** Utilizar mesmo modelo da View do contribuinte. 
 ```
 > Campos do relatório:
-Titulo                      --> Jurídico do municipio: "Registro de inscrição municipal" ;
+Titulo                      --> 
 
 -   🌍  Dados Gerais:
 1.  Tipo pessoa:            --> (Física);

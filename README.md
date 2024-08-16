@@ -5,7 +5,7 @@
  ✅ - Este documento descreve o processo de geração, estrutura e funcionalidades do relatório do Sistema de Tributos Web.<br>
  ✅ - Explicação sober cada relatorio encontra-se nos **_links_** anexados. 
  
-#   Menu Pastas:
+#    📄- Menu Pastas:
 1.  Aprovação: <https://github.com/VenturaCerqueira/Keep_Informatica/tree/main/Aprova%C3%A7%C3%A3o>
 2.  B.I.:   <https://github.com/VenturaCerqueira/Keep_Informatica/tree/main/B.I>
 3.  DAM - IPTU: <https://github.com/VenturaCerqueira/Keep_Informatica/tree/main/DAM-IPTU>
@@ -13,7 +13,7 @@
 5.  Relatorios: <https://github.com/VenturaCerqueira/Keep_Informatica/tree/main/Relatorios>
 
 #   
-#   Menu relatórios:
+#   📄 - Menu relatórios:
 -   ✅  -   Layout relatórios: <Br>
 <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/Relatorios/00%20-%20Layout%20paginas.md>
 

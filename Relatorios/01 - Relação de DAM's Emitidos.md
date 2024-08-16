@@ -3,7 +3,7 @@
 
 <br>
 
-<https://encurtador.com.br/vh5af> **| Voltar |** - **| Proxima página |** <https://abrir.link/DImZT>  
+<https://encurtador.com.br/vh5af> **| Voltar |** - **| Proxima página |** <https://abrir.link/eIzrg>  
 #
 
 ## Observação: 
@@ -84,6 +84,7 @@
 <br>
 <br>
 
- **_Voltar menu:_** <https://github.com/VenturaCerqueira/Keep_Informatica/blob/main/README.mds>
+#
+<br>
 
- 
+<https://encurtador.com.br/vh5af> **| Voltar |** - **| Proxima página |** <https://abrir.link/eIzrg>  

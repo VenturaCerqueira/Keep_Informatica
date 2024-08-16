@@ -1,5 +1,6 @@
 # ✅ - Ficha de cadastro ou Registro de inscrição municipal:
-![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)<br>
+<https://encurtador.com.br/vh5af> **| Voltar |** - **| Proxima página |** <https://encurtador.com.br/lpyxt>  
 #
 **⚠️    Observações:**
 -   Ficha de cadastro do contribuinte, ficara na tela da view.  <br> 
@@ -223,4 +224,4 @@ Titulo                      -->
 ![alt text](/Fotos/Profssional%20Lib.png)
 <br>
 
-<https://encurtador.com.br/vh5af> | Voltar | - | Proxima página | <https://encurtador.com.br/lpyxt>  
+<https://encurtador.com.br/vh5af> **| Voltar |** - **| Proxima página |** <https://encurtador.com.br/lpyxt>  

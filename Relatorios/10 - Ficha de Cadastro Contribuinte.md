@@ -3,8 +3,11 @@
 #
 **⚠️    Observações:**
 -   Ficha de cadastro do contribuinte, ficara na tela da view.  <br> 
-    Adicionar botão ação na view (01 - Ficha de cadastro). <br>
+-   Adicionar botão ação na view: <br> 
+    01 - Ficha de cadastro; <br>
+
     **local abaixo:** ⬇️
+
     ![alt text](/Fotos/exemploview.png)
     <br>
 #
@@ -12,9 +15,9 @@
     -  Jurídica - Mobiliáario
        - ⚠️ Observação: Alteração no titulo do relatorio "Registro de inscrição municipal" 
 
-    -  Jurídica
+    -  Jurídica - Titulo: Ficha de cadstro;
 
-    -  Fisica 
+    -  Fisica   - Titulo: Ficha de cadastro;
 
     -  Fisica   - Profissional Liberal: 
         - ⚠️ Observação: Alteração no titulo do relatorio "Ficha de Cadastro Profissional Liberal".
@@ -101,7 +104,7 @@ _Página 2/2_ <br>
 #   
 
 ## ⚖️ - Jurídica:<br>
->   **Observação I:** Titulo do relatorio sendo Jurídica do municipio será: **"Registro de inscrição municipal"**. <br>
+>   **Observação I:** Titulo do relatorio sendo Jurídica do municipio será: "Ficha de cadastro". <br>
 
 >   **Observação II:** Utilizar mesmo modelo da View do contribuinte. 
 ```

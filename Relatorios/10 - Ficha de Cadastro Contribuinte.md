@@ -150,7 +150,7 @@ Titulo                      -->
 >   **Observação II:** Utilizar mesmo modelo da View do contribuinte. 
 ```
 > Campos do relatório:
-Titulo                      --> Jurídico do municipio: "Registro de inscrição municipal" ;
+Titulo                      --> 
 
 -   🌍  Dados Gerais:
 1.  Tipo pessoa:            --> (Física);

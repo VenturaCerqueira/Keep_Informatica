@@ -221,3 +221,6 @@ Titulo                      -->
 **Exemplo:** <br>
 
 ![alt text](/Fotos/Profssional%20Lib.png)
+<br>
+
+<https://encurtador.com.br/vh5af> | Voltar | - | Proxima página | <https://encurtador.com.br/lpyxt>  

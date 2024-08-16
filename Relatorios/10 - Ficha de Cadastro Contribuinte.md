@@ -156,7 +156,7 @@ Titulo                      -->
 1.  Tipo pessoa:            --> (Física);
 2.  CPF:                    --> 
 3.  Nome:                   -->  
-4.  Data Criação            --> Data de cadastro da empresa no sistema; 
+4.  Data Criação            --> Data de cadastro do contribuinte no sistema; 
 5.  Situação                --> Caso contribuinte esteja com situação "Óbito" trazer campos abaixos: ⬇️
 6.  Data Registro óbito     -->
 7.  Reposanvel Legal Falecido->
@@ -195,7 +195,7 @@ Titulo                      -->
 1.  Tipo pessoa:            --> (Física);
 2.  CPF:                    --> 
 3.  Nome:                   -->  
-4.  Data Criação            --> Data de cadastro da empresa no sistema; 
+4.  Data Criação            --> Data de cadastro do contribuinte no sistema; 
 5.  Situação                --> Caso contribuinte esteja com situação "Óbito" trazer campos abaixos: ⬇️
 6.  Data Registro óbito     -->
 7.  Reposanvel Legal Falecido->

@@ -1,5 +1,11 @@
 # ✅Relação de DAM's Emitidos:
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+
+<br>
+
+<https://encurtador.com.br/vh5af> **| Voltar |** - **| Proxima página |** <https://abrir.link/DImZT>  
+#
+
 ## Observação: 
     Apenas Campo "Período" ou "Exercicio" sera campo obrigatorio, outros campos podem ser "NULL";
 >   **Particularidades Filtros:** <br>

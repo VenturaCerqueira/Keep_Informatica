@@ -15,9 +15,6 @@
     -   Caso não marcando "Tributo", marcando "Parcela", trazer todos os tributos que estão parcelados e suas. cotas. 
 #### Filtros:
 1.  **Período:** _(Not null - Campo obrigatorio)_ 
-    >**Observação:** (Data - *type: Date* - Data de pagamento ou data do credito (de acordo com ordem do relatorio) dos DAM'S) <br>
-    ![alt text](/Fotos/image.png)
-   
     >**Observação:** (Data - *type: Date* -Data da emissão do DAM'S) <br> 
     ![alt text](/Fotos/image.png)
 

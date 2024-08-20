@@ -1,12 +1,5 @@
 ### Certidão Negativa de Débitos Municipais:
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
-#### Filtros:
-
-
-
 ####   Layout PDF:
-**Campos:** 
- ```
 
-```
-![alt text](/Fotos/certidaonegativadedebitomunicipal.png)
+![alt text](/Fotos/Certidão-Negativa%20de%20Débito%20Municipais.png)

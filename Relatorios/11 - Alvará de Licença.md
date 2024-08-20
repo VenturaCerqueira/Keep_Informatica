@@ -3,8 +3,4 @@
 #### Filtros:
 
 ####   Layout PDF:
-**Campos:** 
- ```
- 
-```
-![alt text](/Fotos/alvará%20de%20licenla.png)
+![alt text](/Fotos/Alvará%20de%20Licença.png)

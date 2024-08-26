@@ -18,7 +18,7 @@
     > **Observação:** Seleciona *Ano (2024, 2023, 2022, ...)* <br>
     Filtro da competencia<br>
     ![alt text](/Fotos/image-3.png)<br>
-    ![alt text](qFotos/image-4.png)
+    ![alt text](/Fotos/image-4.png)
 
 4.  **Divida Ativa:** 
     > **Observação:** _Select_ Vem marcado com "01 - Todos Tributos", podendo alterar. <br>
@@ -48,31 +48,9 @@
 
   
 ####   Layout PDF:
-**Campos:** 
- ```
-1.  Descrição da Receita / Tributo  -   Descrição da receita ou Sigla;
-2.  Arrecadador                     -   Banco;
-3.  Natureza                        -   Natureza Juridica; 
-3.  Qtd.                            -   Quantidade de DAM's;
-4.  Valor Tributo                   -   Valor Original da Cota; 
-5.  Desconto (-)                    -   Desconto da Cota;
-6.  Multa(+)                        -   Multa da cota;
-7.  Juros(+)                        -   Juros da cota;
-8.  Correção (+)                    -   Correção monetaria da Cota;
-9.  Valor Pago                      -   Valor pago da Cota;
-10. Arrecadador Totalizador         -   Todos bancos do relatorio
-11. Dia                             -   Data Credito
-12. Qtd                             -   Quantidade de Cota cada banco
-13. Valor Tributo                   
-14. Desconto    
-15. Multa
-16. Juros 
-17. Correção
-18. Valor Pago
-19. Total de lançamento do dia      - Totalizador dos campos 
-20. Total Geral dos Lançamentos     - Total de todos os lançamentos do relatorio, todos os bancos. 
-```  
-<br>
+  
+![alt text](/Fotos/inadi.png)
+
 <br>
 
 #

@@ -7,21 +7,23 @@
 **Campos:** 
  ```
  -  Medida da pagina:
+    -   Fonte: roboto 
+
     - Dimensões A4 de 210x297mm:
                                                                                         
         - Divdir em 5 partes, cada parte: 5,9 cm
 
-        - Dividindo a altura total (29,7 cm) por 5,9 cm: 29,7 cm÷5,9 cm ≈ 5,03                                      -->
+        - Dividindo a altura total (29,7 cm) por 5,9 cm: 29,7 cm ÷ 5,9 cm ≈ 5,03                                    -->
 
         - Portanto, você pode dividir a altura de uma página A4 em aproximadamente 5 partes de 5,9 cm cada.         -->
 
         - A soma exata seria:                                                                                       -->
 
-        - 5 partes × 5,9 cm=29,5 cm                                                                                 -->
+            - 5 partes × 5,9 cm=29,5 cm                                                                             -->
 
-        - O que fica muito próximo da altura total da página (29,7 cm).                                             -->
+            - O que fica muito próximo da altura total da página (29,7 cm).                                         -->
 
-        - A diferença é de 0,2 cm, o que é mínimo e pode ser ajustado, dependendo da precisão que você precisa.     -->
+            - A diferença é de 0,2 cm, o que é mínimo e pode ser ajustado, dependendo da precisão que você precisa. -->
 
 -  Cabeçalho (Área total = 5,9 cm):
     - Brasão da entidade      -->
@@ -63,19 +65,19 @@
 
     -   Direita:
          - Identificação do contribuinte + texto "Endereço imóvel":
-            - Sigla + exercicio (ano);
-            - Nome contribuinte + cpf contribuinte;
-            - Endereço completo do imovel; 
-            - inscrição; 
-            - Vencimento;
-            - Parcela;
-            - Valor IPTU; 
-            - Valor Venal; 
-            - Alíquota;
-            - Desconto;
-            - Valor a pagar;
-        - Numero do DAM;
-        - Qrcode + codigo de barra mais linha digitavel;   
+            - Sigla + exercicio (ano)                   -->
+            - Nome contribuinte + cpf contribuinte      -->
+            - Endereço completo do imovel               -->
+            - inscrição                                 --> 
+            - Vencimento                                -->
+            - Parcela                                   -->
+            - Valor IPTU                                --> 
+            - Valor Venal                               -->
+            - Alíquota                                  -->
+            - Desconto                                  -->
+            - Valor a pagar                             -->
+        - Numero do DAM                                 -->
+        - Qrcode + codigo de barra mais linha digitavel -->
 
 -   Resumo cota (Área total = 5,9 cm):
     - Esquerda:

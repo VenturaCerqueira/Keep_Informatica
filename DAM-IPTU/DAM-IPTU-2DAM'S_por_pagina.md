@@ -6,6 +6,17 @@
 #### Layout:
 **Campos:** 
  ```
+ -  Medida pagina:
+    - Tamanho A5: 14,85 x 21 cm (É a metade da folha A4)
+        (Duas cotas por pagina)
+        
+ -  Cabeçalho:
+    - Brasão da entidade
+    - dados da entidade
+    - Sigla + exercicio (ano)
+    - Descrição da tabela conta_contabil -> Descrição
+    - Numero do DAM
+
  -  Dados do contribuinte:
  **Informação cadastro do contribuinte**
     - Nome/Razão Contribuinte --> 
@@ -53,6 +64,14 @@
     - Juros                  -->
     - Correção               -->
     - Valor a pagar          -->
+
+-   Instruções / Observação:
+    - Mensagem:  
+                As informações contidas neste doc. Não poderão ser alteradas e somente
+                terá validade com autenticação mecânica ou acompanhado do recibo de pagamento
+                APÓS VENCIMENTO, OS TRIBUTOS ESTARÃO SUJEITOS A ATUALIZAÇÃO. 
+                Pagável nas agências do Banco do Brasil, Caixa e Casas Lotéricas. NÃO RECEBER APÓS VENCIMENTO. 
+
 
 ```
 

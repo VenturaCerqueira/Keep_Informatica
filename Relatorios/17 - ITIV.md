@@ -1,4 +1,4 @@
-###  ✅BCI – Boletim de Cadastramento Imobiliário: 
+###  ✅ITIV - Transferencia Inter-Vivos: 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 O BCI – Boletim de Cadastramento Imobiliário é um documento que contém todas as informações sobre o imóvel: <br>
 a) Valor venal; <br>
